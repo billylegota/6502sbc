@@ -8,7 +8,8 @@ Design files for a simple 65C02 based microcomputer with a parallel and serial b
 0b1xxx xxxx xxxx xxxx - ROM  
 
 # Notes:
-All files use Diptrace for Education (500 pin limit). All libraries used have been created by me or the Diptrace team.  
+1. All files use Diptrace for Education (500 pin limit). All libraries used have been created by me or the Diptrace team.  
+2. None of the Rev 0.5 boards have been routed yet. Rev 0.4 is the latest version to be manufactured.  
 
 # License:
 **Software** - CC BY-SA 4.0 (See "CC BY-SA 4.0.txt")  
