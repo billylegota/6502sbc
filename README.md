@@ -11,4 +11,7 @@ Design files for a simple 65C02 based microcomputer with a parallel and serial b
 All files use Diptrace for Education (500 pin limit). All libraries used have been created by me or the Diptrace team.  
 
 # License:
-CC BY-SA 4.0 (See "CC BY-SA 4.0.txt")
+**Software** - CC BY-SA 4.0 (See "CC BY-SA 4.0.txt")  
+**Hardware** - Other than the terms outlined below, you may do whatever you want with the board/part/schematic files:  
+  1. You must provide attribution to the creator \<billylegota\> and a link to this page.  
+  2. You distribute any modifications under the same license.
