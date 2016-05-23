@@ -1,0 +1,4 @@
+NOTES:
+------
+1. Do not use sockets for the 74xx series chips or for the oscillator.
+2. Make sure to solder the shortest components (caps and resistors) first and the tallest ones (polcaps and crystal) last.
